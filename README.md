@@ -8,11 +8,16 @@ I am Roger Salas, student of Video Games Degree by UPC at CITM. This content is 
 This project is about loading assets from a compressed archive using the librerys PhysFS, SDL and PugiXML.
 
 Types of compressed archive:
-  - ZIP   - GRP
-  - 7Z    - HOG
-  - ISO   - MVL
-  - PAK   - WAD
-  - SLB   - VDF
+  - ZIP
+  - 7Z
+  - ISO
+  - PAK
+  - GRP
+  - HOG
+  - MVL
+  - WAD
+  - VDF
+  - SLB
 
 
 PhysFS to open the Zip file and achieve the main goal.

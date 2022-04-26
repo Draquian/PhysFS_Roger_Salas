@@ -3,8 +3,9 @@
 ## About me
 I am Roger Salas, student of Video Games Degree by UPC at CITM. This content is generated for the second year’s subject Project 2, under supervision of Pedro Omedas.
 
+
 ## About the project
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project is about loading assets from a compressed archive using the external librery PhysFS.
 
 ### Markdown
 

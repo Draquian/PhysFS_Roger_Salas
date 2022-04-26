@@ -13,7 +13,7 @@ SDL to create the windows to show a texture, play a sound, and use the fils from
 
 
 ## Hand Out Tutorial
-In the tutorial, folow the TODO's and use the links in the coments to reach the goals and extract files from Zip file
+In the tutorial, follow the TODO's and use the links in the coments to reach the goals and extract files from Zip file
 
 ### [Releas Tutorial](https://github.com/Draquian/PhysFS_Roger_Salas/releases/tag/0.0)
 

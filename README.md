@@ -22,7 +22,29 @@ Types of compressed archive:
 
 PhysFS to open the Zip file and achieve the main goal.
 
+  - Some functions to do this:
+      - PHYSFS_init( );
+      - PHYSFS_deinit( );
+      - PHYSFS_mount( );
+      - PHYSFS_addToSearchPath(const char “Path”, 1);
+      - PHYSFS_exist();
+      - PHYSFS_mount(const char “Path”);
+      - PHYSFS_getLastError( );
+      - PHYSFS_close( );
+      - PHYSFS_openRead(const char “fileName” );
+      - PHYSFS_fileLength(PHYSFS_file* file);
+      - PHYSFS_read();
+
+
 SDL to create the windows to show a texture, play a sound, and use the fils from the Zip file.
+
+  - Some functions to do this:
+    - For Textues:
+      - IMG_Load_RW(SDL_RWops* path, 1);
+    - For Sound:
+      - MIX_LoadWAV_RW(SDL_RWops* path, 1);
+      - MIX_LoadMUS_RW(SDL_RWops* path, 1);
+
 
 PugiXML to load the path of the files
 

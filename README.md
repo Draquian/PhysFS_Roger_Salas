@@ -60,8 +60,8 @@ In the tutorial, follow the TODO's and use the links in the coments to reach the
 
 ## Hand Out Solution
 In this solution you can find the .exe where if you executed, you can:
-  - lisent a background music
-  - see the image 1 and 2 (you can use tab to swap the image)
+  - Lisent a background music
+  - See the image 1 and 2 (you can use tab to swap the image)
   - Play a SFX (use the key number 1 to l play the sound)
 
 ### [Releas Solution](https://github.com/Draquian/PhysFS_Roger_Salas/releases/tag/1.0)
